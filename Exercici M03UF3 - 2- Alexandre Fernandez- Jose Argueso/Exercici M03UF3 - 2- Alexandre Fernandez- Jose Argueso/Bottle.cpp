@@ -2,6 +2,7 @@
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
+#include <vector>
 
 // Genera las botellas con líquidos aleatorios
 void initializeBottles(std::vector<std::vector<char>>& bottles) {
@@ -66,4 +67,21 @@ bool pourLiquid(std::vector<std::vector<char>>& bottles, int from, int to) {
         << " a botella " << to + 1 << ".\n";
 
     return true;
+}
+
+// Verifica si una botella está vacía
+bool isBottleEmpty(const std::vector<char>& bottle) {
+    return bottle.empty();
+}
+
+// Verifica si una botella está llena
+bool isBottleFull(const std::vector<char>& bottle) {
+    return bottle.size() >= MAX_LIQUIDS;
+}
+
+// Crea la estructura inicial de las botellas
+std::vector<std::vector<char>> createBottles() {
+    std::vector<std::vector<char>> bottles(NUM_BOTTLES);
+    initializeBottles(bottles);
+    return bottles;
 }
