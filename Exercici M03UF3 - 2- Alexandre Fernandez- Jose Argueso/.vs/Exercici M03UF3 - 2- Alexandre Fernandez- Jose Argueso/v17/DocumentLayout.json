@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hornedrat\\Documents\\GitHub\\M03UF3-AA2--Alexandre-Jose\\Exercici M03UF3 - 2- Alexandre Fernandez- Jose Argueso\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C74C890-9E55-47E9-B032-7BF2E683EB46}|Exercici M03UF3 - 2- Alexandre Fernandez- Jose Argueso\\Exercici M03UF3 - 2- Alexandre Fernandez- Jose Argueso.vcxproj|C:\\Users\\hornedrat\\Documents\\GitHub\\M03UF3-AA2--Alexandre-Jose\\Exercici M03UF3 - 2- Alexandre Fernandez- Jose Argueso\\Exercici M03UF3 - 2- Alexandre Fernandez- Jose Argueso\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7C74C890-9E55-47E9-B032-7BF2E683EB46}|Exercici M03UF3 - 2- Alexandre Fernandez- Jose Argueso\\Exercici M03UF3 - 2- Alexandre Fernandez- Jose Argueso.vcxproj|solutionrelative:Exercici M03UF3 - 2- Alexandre Fernandez- Jose Argueso\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\hornedrat\\Documents\\GitHub\\M03UF3-AA2--Alexandre-Jose\\Exercici M03UF3 - 2- Alexandre Fernandez- Jose Argueso\\Exercici M03UF3 - 2- Alexandre Fernandez- Jose Argueso\\Main.cpp",
+              "RelativeDocumentMoniker": "Exercici M03UF3 - 2- Alexandre Fernandez- Jose Argueso\\Main.cpp",
+              "ToolTip": "C:\\Users\\hornedrat\\Documents\\GitHub\\M03UF3-AA2--Alexandre-Jose\\Exercici M03UF3 - 2- Alexandre Fernandez- Jose Argueso\\Exercici M03UF3 - 2- Alexandre Fernandez- Jose Argueso\\Main.cpp",
+              "RelativeToolTip": "Exercici M03UF3 - 2- Alexandre Fernandez- Jose Argueso\\Main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-18T15:52:06.527Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
